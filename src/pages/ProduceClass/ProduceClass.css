@@ -1,0 +1,5 @@
+.foo-menu {
+    position: relative;
+    z-index: 1000 !important;
+    color:  gray;
+  }
